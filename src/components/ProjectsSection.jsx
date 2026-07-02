@@ -3,11 +3,11 @@ import { ArrowRight, ExternalLink } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Mental Health Tracker",
-    description: "A platform for mental health resources, self-assessment tools, and community support.",
-    image: "/projects/project1.png",
+    title: "E Commerce - Kuber Fashions",
+    description: "E-commerce platform for clothing and accessories with user authentication, product management, and admin dashboard.",
+    image: "/projects/project5.png",
     tags: ["React", "TailwindCSS", "NodeJS", "MongoDB"],
-    demoUrl: "https://major-project-2-f517.onrender.com/listings",
+    demoUrl: "https://kuberfashions.in/",
   },
   {
     id: 2,
