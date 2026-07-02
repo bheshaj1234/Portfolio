@@ -18,11 +18,13 @@ const ContactSection = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     setIsSubmitting(true);
+    const form = e.target;
 
     // Simulate message sending delay
     setTimeout(() => {
       setIsSubmitting(false);
       setToastVisible(true);
+      form.reset();
 
       // Auto-hide toast after 4 seconds
       setTimeout(() => {

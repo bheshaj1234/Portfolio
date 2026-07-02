@@ -20,7 +20,7 @@ const HeroSection = () => {
             </span>
           </h1>
 
-          <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
+          <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto opacity-0 animate-fade-in-delay-3">
             I craft clean, functional, and visually stunning web experiences.
             Currently seeking an internship to turn ideas into powerful digital
             solutions.
