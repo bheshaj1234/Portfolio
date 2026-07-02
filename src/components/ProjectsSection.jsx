@@ -6,7 +6,7 @@ const projects = [
     title: "E Commerce - Kuber Fashions",
     description: "E-commerce platform for clothing and accessories with user authentication, product management, and admin dashboard.",
     image: "/projects/project5.png",
-    tags: ["React", "TailwindCSS", "NodeJS", "MongoDB"],
+    tags: ["React", "NodeJS", "GCP", "MongoDB"],
     demoUrl: "https://kuberfashions.in/",
   },
   {
