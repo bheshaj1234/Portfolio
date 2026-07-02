@@ -25,7 +25,7 @@ const projects = [
       "Real-time monitoring solution for tracking system performance and identifying issues.",
     image: "/projects/project4.png",
     tags: ["React", "Node.js", "Redis", "WebSockets","Postman","MongoDB"],
-    demoUrl: "#",
+    demoUrl: "https://system-monitor-zeta.vercel.app/",
   },
 ];
 
